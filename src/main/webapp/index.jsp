@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends!  I AM FROM release_16             </h2>
+<h2>               Hello Friends!  I AM FROM release_17             </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS!!!!!!!!     </h3>
 <marquee behavior="alternate"> S@TY@</marquee>
 <font color="WHITE"><marquee direction="left" style="background:RED">YSN</marquee></font>
